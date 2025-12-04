@@ -1,2 +1,34 @@
-# akshayprajapati
-This is the my personal github portfolio
+# Hi, I'm Akshay Prajapati 👋
+Backend Developer specializing in Node.js | REST APIs | MongoDB
+
+🚀 3 years of backend experience  
+💡 Building scalable & clean backend systems  
+🌱 Learning system design and cloud deployment
+
+---
+
+## 🛠 Tech Stack
+- Node.js, Express
+- MongoDB
+- JWT Authentication
+- Redis (Basics)
+- Docker
+- CI/CD (Basics)
+- GitHub Actions
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+- REST API Starter Template
+- Authentication System
+- E-commerce Backend
+- Microservices Architecture
+- System Design Notes
+
+---
+
+## 📫 Contacts
+Email: your@email.com  
+LinkedIn: your-profile-link  
+GitHub: https://github.com/akshayprajapati
