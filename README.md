@@ -61,9 +61,9 @@ Here are some of my projects demonstrating my **backend and fullstack skills**:
 ## 📫 Contacts
 I love connecting with like-minded professionals!  
 
-- **Email:** akshayercs@gmail.com  
-- **LinkedIn:** [linkedin.com/in/software-engineer-akshayprajapati](https://www.linkedin.com/in/software-engineer-akshayprajapati)  
-- **GitHub:** [github.com/akshayecs](https://github.com/akshayecs)  
+- **Email:** [akshayercs@gmail.com](mailto:akshayercs@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/software-engineer-akshayprajapati](https://www.linkedin.com/in/software-engineer-akshayprajapati)  
+- **GitHub:** [https://github.com/akshayecs](https://github.com/akshayecs)  
 
 ---
 
