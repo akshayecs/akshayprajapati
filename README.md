@@ -8,14 +8,21 @@ Backend Developer specializing in Node.js | REST APIs | MongoDB
 ---
 
 ## 🛠 Tech Stack
-- Node.js, Express
+- Node.js
+- Express
+- MySQL
+- PostgreSQL
 - MongoDB
 - JWT Authentication
-- Redis (Basics)
+- Redis
+- Apache Kafka
+- socket.io
+- Microservice
 - Docker
 - CI/CD (Basics)
 - GitHub Actions
 - REST APIs
+  
 
 ---
 
