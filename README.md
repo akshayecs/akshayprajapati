@@ -1,11 +1,17 @@
 # Hi, I'm Akshay Prajapati 👋
 **Backend Developer | Node.js, Fullstack & Cloud Enthusiast | AI/ML Explorer**
 
+
+
 🚀 **3+ years of experience** building scalable and maintainable backend systems  
 💡 **Passionate about clean code, system design & modern architectures**  
 🌱 **Currently exploring AI/ML product development, cloud deployment & microservices**
 
 ---
+
+
+
+
 
 ## 📝 About Me
 I am a backend developer with expertise in building **robust REST APIs, real-time applications, and scalable systems**.  
@@ -17,7 +23,12 @@ I thrive in **challenging environments**, love to **learn continuously**, and ai
 
 ---
 
+
+
+
+
 ## 🛠 Tech Stack
+
 
 **Languages & Frameworks:**  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript  
@@ -28,11 +39,15 @@ I thrive in **challenging environments**, love to **learn continuously**, and ai
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React.js  
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) Next.js  
 
+
+
 **Databases:**  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) PostgreSQL  
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL  
 - Redis  
+
+
 
 **Other Tools & Libraries:**  
 - Socket.io  
@@ -43,6 +58,10 @@ I thrive in **challenging environments**, love to **learn continuously**, and ai
 - REST API Design & Development  
 
 ---
+
+
+
+
 
 ## 📌 Featured Projects
 Here are some of my projects demonstrating my **backend and fullstack skills**:
@@ -57,6 +76,10 @@ Here are some of my projects demonstrating my **backend and fullstack skills**:
 
 ---
 
+
+
+
+
 ## 📫 Contacts
 I love connecting with like-minded professionals!  
 
@@ -66,15 +89,24 @@ I love connecting with like-minded professionals!
 
 ---
 
+
+
+
 ### ⚡ Fun Fact
 I constantly experiment with **AI/ML-driven backend solutions** to make applications smarter and more efficient.  
 
 ---
 
+
+
+
 ### 🔥 GitHub Stats
 ![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayecs&show_icons=true&theme=radical)  
 
 ---
+
+
+
 
 ### 🎯 Languages & Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayecs&layout=compact&theme=radical)
