@@ -1,5 +1,5 @@
 # Hi, I'm Akshay Prajapati 👋
-**Backend Developer | Node.js & Fullstack Enthusiast | AI/ML Explorer**
+**Backend Developer | Node.js, Fullstack & Cloud Enthusiast | AI/ML Explorer**
 
 🚀 **3+ years of experience** building scalable and maintainable backend systems  
 💡 **Passionate about clean code, system design & modern architectures**  
