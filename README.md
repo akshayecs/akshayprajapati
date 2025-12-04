@@ -29,6 +29,6 @@ Backend Developer specializing in Node.js | REST APIs | MongoDB
 ---
 
 ## 📫 Contacts
-Email: your@email.com  
-LinkedIn: your-profile-link  
-GitHub: https://github.com/akshayprajapati
+Email: akshayercs@gmail.com  
+LinkedIn: https://www.linkedin.com/in/software-engineer-akshayprajapati  
+GitHub: https://github.com/akshayecs
