@@ -52,7 +52,6 @@ Here are some of my projects demonstrating my **backend and fullstack skills**:
 3. **Scalable Chat Backend** – Real-time chat system using Socket.io and Redis.  
 4. **Microservices Architecture** – Event-driven microservices using Kafka for distributed systems.  
 5. **System Design Notes** – Collection of best practices for backend system design.  
-6. **AI/ML Experiments** – Exploring AI-driven features and integrating ML models in applications.  
 
 *(All projects are open-source and available on my [GitHub](https://github.com/akshayecs))*
 
